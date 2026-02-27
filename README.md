@@ -10,6 +10,6 @@ Mục tiêu thực hành:
 - Rèn kỹ năng tìm kiếm, phân tích và so sánh thông tin kỹ thuật (SQL vs NoSQL) trong lĩnh vực CNTT.
 
 ### Danh sách các tệp tin:
-- **Bài 1:** [`.xlsx`](./BUOI6_B2511680_Nguyen_Thi_Ngoc_Thuy.xlsx)
-- **Bài 2:** [`.accdb`](./BUOI06_B2511677_Ho_Vu_Thanh.accdb)
-- **Bài 3:** [`.docx`](./BUOI6_B2511658_Dang_Minh_Hieu.docx)
+- **Bài 1, 2:** [`.xlsx`](./BUOI6_B2511680_Nguyen_Thi_Ngoc_Thuy.xlsx)
+- **Bài 3:** [`.accdb`](./BUOI06_B2511677_Ho_Vu_Thanh.accdb)
+- **Bài 4:** [`.docx`](./BUOI6_B2511658_Dang_Minh_Hieu.docx)
