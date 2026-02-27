@@ -12,4 +12,4 @@ Mục tiêu thực hành:
 ### Danh sách các tệp tin:
 - **Bài 1:** [`.xlsx`](./BUOI6_B2511680_Nguyen_Thi_Ngoc_Thuy.xlsx)
 - **Bài 2:** [`.accdb`](./BUOI06_B2511677_Ho_Vu_Thanh.accdb)
-- **Bài 3:** [`docx`](./BUOI6_B2511658_Dang_Minh_Hieu.docx)
+- **Bài 3:** [`.docx`](./BUOI6_B2511658_Dang_Minh_Hieu.docx)
